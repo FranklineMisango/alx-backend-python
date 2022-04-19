@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Takes no arguments, loops 10 times awaiting 1 sec each then yield a random no."""
+"""random no. gen"""
 
 import asyncio
 import random
